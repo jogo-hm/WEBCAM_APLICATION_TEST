@@ -1,0 +1,19 @@
+.card-box {
+    max-width: 1100px;
+    margin: auto;
+}
+.tab-box {
+    max-width: 300px;
+    max-height: 300px;
+}
+.container-button {
+    width: 100%;
+}
+
+.container-button__screen {
+    width: 100%;
+}
+
+.table-profile {
+    background-color: #333;
+}
